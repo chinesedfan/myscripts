@@ -1,0 +1,3 @@
+#!/usr/bin/env sh
+
+cd /Users/zhong/Desktop/Mobile/mobile-httpwatch; node svr.js
