@@ -1,0 +1,4 @@
+#!/usr/bin/env sh
+
+ln -sf /Users/zhong/.config/yarn/global/node_modules/npm/bin/npm-cli.js /usr/local/bin/npm
+ln -sf /Users/zhong/.config/yarn/global/node_modules/npm/bin/npx-cli.js /usr/local/bin/npx
